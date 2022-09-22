@@ -1,0 +1,103 @@
+{
+  "accrual_periodicity": "annually",
+  "additional_limitations": "",
+  "citation": "",
+  "contact_email": "DCSSOpenData@dcss.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This data table provides the basic information for California child support cases, such as number of cases per county, the number of cases where the child is currently receiving public assistance, number of cases where the child formerly received public assistance (but no longer does), and the number of cases where the child has never received public assistance.  The data is sorted by county and broken into the Current Public Assistance, Former Public Assistance and Never Assisted types, the table will also show the percentage of that county’s total caseload.  ",
+  "geo_coverage": "Statewide",
+  "geographic_granularity": "county",
+  "keywords": [
+    "california children",
+    "cases",
+    "child support",
+    "child support cases",
+    "counties",
+    "current",
+    "dcss",
+    "former",
+    "iv-a",
+    "iv-d cases",
+    "iv-d program",
+    "never",
+    "public assistance status",
+    "welfare"
+  ],
+  "limitations": "Limitations",
+  "name": "department-of-child-support-services-case-overview-ffy-2015-ffy-2021",
+  "program_web_page": "https://childsupport.ca.gov",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "This data table provides the basic information for California child support cases, such as number of cases per county, the number of cases where the child is currently receiving public assistance, number of cases where the child formerly received public assistance (but no longer does), and the number of cases where the child has never received public assistance.  The data is sorted by county and broken into the Current Public Assistance, Former Public Assistance and Never Assisted types, the table will also show the percentage of that county’s total caseload.  ",
+      "format": "CSV",
+      "hash": "8bbc4902bc7e11aff4415db55ba95af6",
+      "name": "department-of-child-support-services-case-overview-ffy-2015-ffy-2021-csv",
+      "path": "department-of-child-support-services-case-overview-ffy-2015-ffy-2021-.csv",
+      "schema": {
+        "fields": [
+          {
+            "description": "Federal Fiscal Year",
+            "name": "Year",
+            "title": "Year",
+            "type": "string"
+          },
+          {
+            "name": "County",
+            "title": "County",
+            "type": "string"
+          },
+          {
+            "description": "Current Public Assistance: The number of open child support cases where a child is currently receiving public assistance. The percentage of cases in each assistance category is calculated by dividing the number of cases in each assistance category by the total number of cases for each individual county.\nFormer Public Assistance: The number of open child support cases where the child formerly received public assistance. The percentage of cases in each assistance category is calculated by dividing the number of cases in each assistance category by the total number of cases for each individual county.\nNever Assisted: The number of open child support cases where the child has never received public assistance. The percentage of cases in each assistance category is calculated by dividing the number of cases in each assistance category by the total number of cases for each individual county.\nTotal: Number of open child support cases in each county.  Data Source is the California Child Support Enforcement (CSE) System.\n",
+            "name": "Case Type",
+            "title": "Case Type",
+            "type": "string"
+          },
+          {
+            "description": "Total number of open child support cases in each county, as well as the total number of current public assistant cases, former public assistance, and never assisted cases by county. Data Source is the California Child Support Enforcement (CSE) System.",
+            "name": "Cases",
+            "title": "Cases",
+            "type": "number"
+          },
+          {
+            "description": "The percentage of the total caseload for each county.",
+            "name": "Percentage",
+            "title": "Percentage",
+            "type": "string"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/1270d2c8-4beb-4e14-a6b9-4e739ce1efe0/resource/13d8025d-0621-481a-b9db-84e01f8f60a0/download/department-of-child-support-services-case-overview-ffy-2015-ffy-2021.csv",
+          "title": "Department of Child Support Services Case Overview FFY 2015 - FFY 2021 (CSV)"
+        }
+      ],
+      "title": "Department of Child Support Services Case Overview FFY 2015 - FFY 2021 (CSV)"
+    },
+    {
+      "description": "This data table provides the basic information for California child support cases, such as number of cases per county, the number of cases where the child is currently receiving public assistance, number of cases where the child formerly received public assistance (but no longer does), and the number of cases where the child has never received public assistance.  The data is sorted by county and broken into the Current Public Assistance, Former Public Assistance and Never Assisted types, the table will also show the percentage of that county’s total caseload.  ",
+      "format": "DOCX",
+      "name": "dcss-child-support-case-overview-ffy-2015-ffy-2021-data-dictionary",
+      "path": "dcss-child-support-case-overview-ffy-2015-ffy-2021-data-dictionary.docx",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/1270d2c8-4beb-4e14-a6b9-4e739ce1efe0/resource/0a563cc5-8152-4403-8a3c-ad55e9b1e28b/download/dcss-child-support-case-overview-ffy-2015-ffy-2021-data-dictionary.docx",
+          "title": "DCSS Child Support Case Overview FFY 2015 - FFY 2021 - Data Dictionary"
+        }
+      ],
+      "title": "DCSS Child Support Case Overview FFY 2015 - FFY 2021 - Data Dictionary"
+    }
+  ],
+  "secondary_sources": "",
+  "sources": [
+    {
+      "name": "Department of Child Support Services",
+      "web": "https://childsupport.ca.gov/reports/"
+    }
+  ],
+  "temporal_coverage": "FFY 2015 - FFY 2021",
+  "title": "Department of Child Support Services Case Overview FFY 2015 - FFY 2021"
+}
