@@ -1,6 +1,0 @@
-column,type,label,description
-Year,text,,
-County,text,,
-Case Type,text,,
-Cases,text,,
-Percentage,text,,

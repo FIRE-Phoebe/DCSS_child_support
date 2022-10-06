@@ -1,0 +1,1625 @@
+Year,County,Case Type,Cases,Percentage
+2015,Alameda,Current Public Assistance,6830,21.50%
+2015,Alameda,Former Public Assistance,16121,50.70%
+2015,Alameda,Never Assisted,8874,27.90%
+2015,Alameda,Total Caseload,31825,
+2015,Alpine,Current Public Assistance,1,2.90%
+2015,Alpine,Former Public Assistance,23,65.70%
+2015,Alpine,Never Assisted,11,31.40%
+2015,Alpine,Total Caseload,35,
+2015,Amador,Current Public Assistance,222,18.30%
+2015,Amador,Former Public Assistance,690,56.90%
+2015,Amador,Never Assisted,300,24.80%
+2015,Amador,Total Caseload,1212,
+2015,Butte,Current Public Assistance,2543,23.00%
+2015,Butte,Former Public Assistance,6774,61.10%
+2015,Butte,Never Assisted,1763,15.90%
+2015,Butte,Total Caseload,11080,
+2015,Calaveras,Current Public Assistance,420,25.50%
+2015,Calaveras,Former Public Assistance,907,55.00%
+2015,Calaveras,Never Assisted,321,19.50%
+2015,Calaveras,Total Caseload,1648,
+2015,Colusa,Current Public Assistance,123,16.70%
+2015,Colusa,Former Public Assistance,401,54.30%
+2015,Colusa,Never Assisted,214,29.00%
+2015,Colusa,Total Caseload,738,
+2015,Contra Costa,Current Public Assistance,6171,21.50%
+2015,Contra Costa,Former Public Assistance,14387,50.10%
+2015,Contra Costa,Never Assisted,8176,28.50%
+2015,Contra Costa,Total Caseload,28734,
+2015,Del Norte,Current Public Assistance,680,25.20%
+2015,Del Norte,Former Public Assistance,1613,59.70%
+2015,Del Norte,Never Assisted,409,15.10%
+2015,Del Norte,Total Caseload,2702,
+2015,El Dorado,Current Public Assistance,1065,18.20%
+2015,El Dorado,Former Public Assistance,3307,56.60%
+2015,El Dorado,Never Assisted,1468,25.10%
+2015,El Dorado,Total Caseload,5840,
+2015,Fresno,Current Public Assistance,18237,31.40%
+2015,Fresno,Former Public Assistance,32855,56.50%
+2015,Fresno,Never Assisted,7042,12.10%
+2015,Fresno,Total Caseload,58134,
+2015,Glenn,Current Public Assistance,375,22.70%
+2015,Glenn,Former Public Assistance,967,58.50%
+2015,Glenn,Never Assisted,311,18.80%
+2015,Glenn,Total Caseload,1653,
+2015,Humboldt,Current Public Assistance,1277,21.50%
+2015,Humboldt,Former Public Assistance,3331,56.20%
+2015,Humboldt,Never Assisted,1318,22.20%
+2015,Humboldt,Total Caseload,5926,
+2015,Imperial,Current Public Assistance,2914,28.00%
+2015,Imperial,Former Public Assistance,5380,51.60%
+2015,Imperial,Never Assisted,2127,20.40%
+2015,Imperial,Total Caseload,10421,
+2015,Inyo,Current Public Assistance,92,8.50%
+2015,Inyo,Former Public Assistance,612,56.50%
+2015,Inyo,Never Assisted,380,35.10%
+2015,Inyo,Total Caseload,1084,
+2015,Kern,Current Public Assistance,16123,31.70%
+2015,Kern,Former Public Assistance,26090,51.30%
+2015,Kern,Never Assisted,8617,17.00%
+2015,Kern,Total Caseload,50830,
+2015,Kings,Current Public Assistance,2390,25.40%
+2015,Kings,Former Public Assistance,5287,56.10%
+2015,Kings,Never Assisted,1746,18.50%
+2015,Kings,Total Caseload,9423,
+2015,Lake,Current Public Assistance,836,29.10%
+2015,Lake,Former Public Assistance,1513,52.60%
+2015,Lake,Never Assisted,526,18.30%
+2015,Lake,Total Caseload,2875,
+2015,Lassen,Current Public Assistance,401,24.70%
+2015,Lassen,Former Public Assistance,873,53.80%
+2015,Lassen,Never Assisted,350,21.60%
+2015,Lassen,Total Caseload,1624,
+2015,Los Angeles,Current Public Assistance,89340,32.30%
+2015,Los Angeles,Former Public Assistance,127959,46.20%
+2015,Los Angeles,Never Assisted,59478,21.50%
+2015,Los Angeles,Total Caseload,276777,
+2015,Madera,Current Public Assistance,2053,33.20%
+2015,Madera,Former Public Assistance,3026,49.00%
+2015,Madera,Never Assisted,1097,17.80%
+2015,Madera,Total Caseload,6176,
+2015,Marin,Current Public Assistance,331,13.30%
+2015,Marin,Former Public Assistance,1090,43.80%
+2015,Marin,Never Assisted,1067,42.90%
+2015,Marin,Total Caseload,2488,
+2015,Mariposa,Current Public Assistance,137,21.70%
+2015,Mariposa,Former Public Assistance,330,52.40%
+2015,Mariposa,Never Assisted,163,25.90%
+2015,Mariposa,Total Caseload,630,
+2015,Mendocino,Current Public Assistance,991,23.60%
+2015,Mendocino,Former Public Assistance,2486,59.20%
+2015,Mendocino,Never Assisted,723,17.20%
+2015,Mendocino,Total Caseload,4200,
+2015,Merced,Current Public Assistance,5208,31.40%
+2015,Merced,Former Public Assistance,9164,55.20%
+2015,Merced,Never Assisted,2218,13.40%
+2015,Merced,Total Caseload,16590,
+2015,Modoc,Current Public Assistance,102,26.50%
+2015,Modoc,Former Public Assistance,197,51.20%
+2015,Modoc,Never Assisted,86,22.30%
+2015,Modoc,Total Caseload,385,
+2015,Mono,Current Public Assistance,20,7.40%
+2015,Mono,Former Public Assistance,107,39.80%
+2015,Mono,Never Assisted,142,52.80%
+2015,Mono,Total Caseload,269,
+2015,Monterey,Current Public Assistance,3345,20.40%
+2015,Monterey,Former Public Assistance,8973,54.80%
+2015,Monterey,Never Assisted,4055,24.80%
+2015,Monterey,Total Caseload,16373,
+2015,Napa,Current Public Assistance,588,15.80%
+2015,Napa,Former Public Assistance,1732,46.60%
+2015,Napa,Never Assisted,1399,37.60%
+2015,Napa,Total Caseload,3719,
+2015,Nevada,Current Public Assistance,549,17.10%
+2015,Nevada,Former Public Assistance,1827,56.80%
+2015,Nevada,Never Assisted,843,26.20%
+2015,Nevada,Total Caseload,3219,
+2015,Orange,Current Public Assistance,14381,21.10%
+2015,Orange,Former Public Assistance,29695,43.50%
+2015,Orange,Never Assisted,24124,35.40%
+2015,Orange,Total Caseload,68200,
+2015,Placer,Current Public Assistance,1263,15.00%
+2015,Placer,Former Public Assistance,4328,51.30%
+2015,Placer,Never Assisted,2853,33.80%
+2015,Placer,Total Caseload,8444,
+2015,Plumas,Current Public Assistance,198,21.10%
+2015,Plumas,Former Public Assistance,524,55.80%
+2015,Plumas,Never Assisted,217,23.10%
+2015,Plumas,Total Caseload,939,
+2015,Riverside,Current Public Assistance,22308,27.50%
+2015,Riverside,Former Public Assistance,41293,50.90%
+2015,Riverside,Never Assisted,17524,21.60%
+2015,Riverside,Total Caseload,81125,
+2015,Sacramento,Current Public Assistance,20165,26.30%
+2015,Sacramento,Former Public Assistance,43454,56.60%
+2015,Sacramento,Never Assisted,13147,17.10%
+2015,Sacramento,Total Caseload,76766,
+2015,San Benito,Current Public Assistance,442,21.20%
+2015,San Benito,Former Public Assistance,1204,57.70%
+2015,San Benito,Never Assisted,442,21.20%
+2015,San Benito,Total Caseload,2088,
+2015,San Bernardino,Current Public Assistance,34917,31.10%
+2015,San Bernardino,Former Public Assistance,57714,51.30%
+2015,San Bernardino,Never Assisted,19773,17.60%
+2015,San Bernardino,Total Caseload,112404,
+2015,San Diego,Current Public Assistance,15329,21.50%
+2015,San Diego,Former Public Assistance,32687,45.90%
+2015,San Diego,Never Assisted,23235,32.60%
+2015,San Diego,Total Caseload,71251,
+2015,San Francisco,Current Public Assistance,2525,19.80%
+2015,San Francisco,Former Public Assistance,6887,54.10%
+2015,San Francisco,Never Assisted,3329,26.10%
+2015,San Francisco,Total Caseload,12741,
+2015,San Joaquin,Current Public Assistance,9662,26.90%
+2015,San Joaquin,Former Public Assistance,20017,55.70%
+2015,San Joaquin,Never Assisted,6284,17.50%
+2015,San Joaquin,Total Caseload,35963,
+2015,San Luis Obispo,Current Public Assistance,833,21.70%
+2015,San Luis Obispo,Former Public Assistance,1707,44.50%
+2015,San Luis Obispo,Never Assisted,1299,33.80%
+2015,San Luis Obispo,Total Caseload,3839,
+2015,San Mateo,Current Public Assistance,1509,14.60%
+2015,San Mateo,Former Public Assistance,4550,44.00%
+2015,San Mateo,Never Assisted,4292,41.50%
+2015,San Mateo,Total Caseload,10351,
+2015,Santa Barbara,Current Public Assistance,2658,21.50%
+2015,Santa Barbara,Former Public Assistance,6618,53.60%
+2015,Santa Barbara,Never Assisted,3060,24.80%
+2015,Santa Barbara,Total Caseload,12336,
+2015,Santa Clara,Current Public Assistance,6470,17.70%
+2015,Santa Clara,Former Public Assistance,20816,56.80%
+2015,Santa Clara,Never Assisted,9357,25.50%
+2015,Santa Clara,Total Caseload,36643,
+2015,Santa Cruz,Current Public Assistance,1046,18.50%
+2015,Santa Cruz,Former Public Assistance,3071,54.40%
+2015,Santa Cruz,Never Assisted,1529,27.10%
+2015,Santa Cruz,Total Caseload,5646,
+2015,Shasta,Current Public Assistance,2783,23.20%
+2015,Shasta,Former Public Assistance,7189,60.00%
+2015,Shasta,Never Assisted,2019,16.80%
+2015,Shasta,Total Caseload,11991,
+2015,Sierra,Current Public Assistance,16,14.00%
+2015,Sierra,Former Public Assistance,68,59.60%
+2015,Sierra,Never Assisted,30,26.30%
+2015,Sierra,Total Caseload,114,
+2015,Siskiyou,Current Public Assistance,574,19.80%
+2015,Siskiyou,Former Public Assistance,1812,62.70%
+2015,Siskiyou,Never Assisted,506,17.50%
+2015,Siskiyou,Total Caseload,2892,
+2015,Solano,Current Public Assistance,3540,21.20%
+2015,Solano,Former Public Assistance,9304,55.70%
+2015,Solano,Never Assisted,3868,23.10%
+2015,Solano,Total Caseload,16712,
+2015,Sonoma,Current Public Assistance,2064,17.50%
+2015,Sonoma,Former Public Assistance,6125,51.80%
+2015,Sonoma,Never Assisted,3635,30.70%
+2015,Sonoma,Total Caseload,11824,
+2015,Stanislaus,Current Public Assistance,7117,24.80%
+2015,Stanislaus,Former Public Assistance,16917,58.80%
+2015,Stanislaus,Never Assisted,4715,16.40%
+2015,Stanislaus,Total Caseload,28749,
+2015,Sutter,Current Public Assistance,1155,24.50%
+2015,Sutter,Former Public Assistance,2616,55.40%
+2015,Sutter,Never Assisted,948,20.10%
+2015,Sutter,Total Caseload,4719,
+2015,Tehama,Current Public Assistance,1047,25.90%
+2015,Tehama,Former Public Assistance,2375,58.80%
+2015,Tehama,Never Assisted,616,15.30%
+2015,Tehama,Total Caseload,4038,
+2015,Trinity,Current Public Assistance,136,20.10%
+2015,Trinity,Former Public Assistance,423,62.50%
+2015,Trinity,Never Assisted,118,17.40%
+2015,Trinity,Total Caseload,677,
+2015,Tulare,Current Public Assistance,5108,20.60%
+2015,Tulare,Former Public Assistance,15669,63.30%
+2015,Tulare,Never Assisted,3981,16.10%
+2015,Tulare,Total Caseload,24758,
+2015,Tuolumne,Current Public Assistance,568,21.80%
+2015,Tuolumne,Former Public Assistance,1477,56.70%
+2015,Tuolumne,Never Assisted,561,21.50%
+2015,Tuolumne,Total Caseload,2606,
+2015,Ventura,Current Public Assistance,3989,18.70%
+2015,Ventura,Former Public Assistance,10524,49.40%
+2015,Ventura,Never Assisted,6770,31.80%
+2015,Ventura,Total Caseload,21283,
+2015,Yolo,Current Public Assistance,1538,19.50%
+2015,Yolo,Former Public Assistance,4724,60.00%
+2015,Yolo,Never Assisted,1606,20.40%
+2015,Yolo,Total Caseload,7868,
+2015,Yuba,Current Public Assistance,1103,26.50%
+2015,Yuba,Former Public Assistance,2397,57.60%
+2015,Yuba,Never Assisted,660,15.90%
+2015,Yuba,Total Caseload,4160,
+2016,Alameda,Current Public Assistance,6245,20.20%
+2016,Alameda,Former Public Assistance,16234,52.40%
+2016,Alameda,Never Assisted,8503,27.40%
+2016,Alameda,Total Caseload,30982,
+2016,Alpine,Current Public Assistance,1,2.80%
+2016,Alpine,Former Public Assistance,25,69.40%
+2016,Alpine,Never Assisted,10,27.80%
+2016,Alpine,Total Caseload,36,
+2016,Amador,Current Public Assistance,212,17.50%
+2016,Amador,Former Public Assistance,693,57.10%
+2016,Amador,Never Assisted,309,25.50%
+2016,Amador,Total Caseload,1214,
+2016,Butte,Current Public Assistance,2551,23.20%
+2016,Butte,Former Public Assistance,6736,61.20%
+2016,Butte,Never Assisted,1711,15.60%
+2016,Butte,Total Caseload,10998,
+2016,Calaveras,Current Public Assistance,350,22.00%
+2016,Calaveras,Former Public Assistance,931,58.40%
+2016,Calaveras,Never Assisted,313,19.60%
+2016,Calaveras,Total Caseload,1594,
+2016,Colusa,Current Public Assistance,98,13.50%
+2016,Colusa,Former Public Assistance,400,55.20%
+2016,Colusa,Never Assisted,226,31.20%
+2016,Colusa,Total Caseload,724,
+2016,Contra Costa,Current Public Assistance,5411,20.20%
+2016,Contra Costa,Former Public Assistance,14232,53.10%
+2016,Contra Costa,Never Assisted,7171,26.70%
+2016,Contra Costa,Total Caseload,26814,
+2016,Del Norte,Current Public Assistance,619,23.50%
+2016,Del Norte,Former Public Assistance,1608,61.10%
+2016,Del Norte,Never Assisted,405,15.40%
+2016,Del Norte,Total Caseload,2632,
+2016,El Dorado,Current Public Assistance,1074,18.70%
+2016,El Dorado,Former Public Assistance,3229,56.20%
+2016,El Dorado,Never Assisted,1438,25.00%
+2016,El Dorado,Total Caseload,5741,
+2016,Fresno,Current Public Assistance,16866,28.60%
+2016,Fresno,Former Public Assistance,34867,59.20%
+2016,Fresno,Never Assisted,7161,12.20%
+2016,Fresno,Total Caseload,58894,
+2016,Glenn,Current Public Assistance,367,22.20%
+2016,Glenn,Former Public Assistance,966,58.40%
+2016,Glenn,Never Assisted,320,19.40%
+2016,Glenn,Total Caseload,1653,
+2016,Humboldt,Current Public Assistance,1119,19.90%
+2016,Humboldt,Former Public Assistance,3225,57.40%
+2016,Humboldt,Never Assisted,1276,22.70%
+2016,Humboldt,Total Caseload,5620,
+2016,Imperial,Current Public Assistance,2841,27.60%
+2016,Imperial,Former Public Assistance,5338,52.00%
+2016,Imperial,Never Assisted,2096,20.40%
+2016,Imperial,Total Caseload,10275,
+2016,Inyo,Current Public Assistance,88,8.40%
+2016,Inyo,Former Public Assistance,599,57.00%
+2016,Inyo,Never Assisted,363,34.60%
+2016,Inyo,Total Caseload,1050,
+2016,Kern,Current Public Assistance,15240,30.20%
+2016,Kern,Former Public Assistance,26752,52.90%
+2016,Kern,Never Assisted,8548,16.90%
+2016,Kern,Total Caseload,50540,
+2016,Kings,Current Public Assistance,2124,23.60%
+2016,Kings,Former Public Assistance,5202,57.80%
+2016,Kings,Never Assisted,1671,18.60%
+2016,Kings,Total Caseload,8997,
+2016,Lake,Current Public Assistance,793,28.10%
+2016,Lake,Former Public Assistance,1530,54.10%
+2016,Lake,Never Assisted,503,17.80%
+2016,Lake,Total Caseload,2826,
+2016,Lassen,Current Public Assistance,363,22.70%
+2016,Lassen,Former Public Assistance,916,57.20%
+2016,Lassen,Never Assisted,322,20.10%
+2016,Lassen,Total Caseload,1601,
+2016,Los Angeles,Current Public Assistance,78468,29.30%
+2016,Los Angeles,Former Public Assistance,131715,49.20%
+2016,Los Angeles,Never Assisted,57581,21.50%
+2016,Los Angeles,Total Caseload,267764,
+2016,Madera,Current Public Assistance,1967,31.20%
+2016,Madera,Former Public Assistance,3233,51.30%
+2016,Madera,Never Assisted,1102,17.50%
+2016,Madera,Total Caseload,6302,
+2016,Marin,Current Public Assistance,651,12.40%
+2016,Marin,Former Public Assistance,3245,61.80%
+2016,Marin,Never Assisted,1351,25.70%
+2016,Marin,Total Caseload,5247,
+2016,Mariposa,Current Public Assistance,126,19.40%
+2016,Mariposa,Former Public Assistance,356,54.70%
+2016,Mariposa,Never Assisted,169,26.00%
+2016,Mariposa,Total Caseload,651,
+2016,Mendocino,Current Public Assistance,810,20.20%
+2016,Mendocino,Former Public Assistance,2478,61.90%
+2016,Mendocino,Never Assisted,715,17.90%
+2016,Mendocino,Total Caseload,4003,
+2016,Merced,Current Public Assistance,4553,29.70%
+2016,Merced,Former Public Assistance,8757,57.10%
+2016,Merced,Never Assisted,2036,13.30%
+2016,Merced,Total Caseload,15346,
+2016,Modoc,Current Public Assistance,95,24.90%
+2016,Modoc,Former Public Assistance,208,54.50%
+2016,Modoc,Never Assisted,79,20.70%
+2016,Modoc,Total Caseload,382,
+2016,Mono,Current Public Assistance,19,7.30%
+2016,Mono,Former Public Assistance,102,38.90%
+2016,Mono,Never Assisted,141,53.80%
+2016,Mono,Total Caseload,262,
+2016,Monterey,Current Public Assistance,2781,17.70%
+2016,Monterey,Former Public Assistance,8961,57%
+2016,Monterey,Never Assisted,3980,25.30%
+2016,Monterey,Total Caseload,15722,
+2016,Napa,Current Public Assistance,524,14.60%
+2016,Napa,Former Public Assistance,1722,48.00%
+2016,Napa,Never Assisted,1338,37.30%
+2016,Napa,Total Caseload,3584,
+2016,Nevada,Current Public Assistance,454,14.90%
+2016,Nevada,Former Public Assistance,1752,57.40%
+2016,Nevada,Never Assisted,847,27.70%
+2016,Nevada,Total Caseload,3053,
+2016,Orange,Current Public Assistance,12806,18.90%
+2016,Orange,Former Public Assistance,30906,45.50%
+2016,Orange,Never Assisted,24207,35.60%
+2016,Orange,Total Caseload,67919,
+2016,Placer,Current Public Assistance,1102,13.80%
+2016,Placer,Former Public Assistance,4145,51.80%
+2016,Placer,Never Assisted,2762,34.50%
+2016,Placer,Total Caseload,8009,
+2016,Plumas,Current Public Assistance,146,16.50%
+2016,Plumas,Former Public Assistance,538,60.90%
+2016,Plumas,Never Assisted,200,22.60%
+2016,Plumas,Total Caseload,884,
+2016,Riverside,Current Public Assistance,20994,25.50%
+2016,Riverside,Former Public Assistance,43748,53.20%
+2016,Riverside,Never Assisted,17506,21.30%
+2016,Riverside,Total Caseload,82248,
+2016,Sacramento,Current Public Assistance,18211,23.70%
+2016,Sacramento,Former Public Assistance,45529,59.40%
+2016,Sacramento,Never Assisted,12955,16.90%
+2016,Sacramento,Total Caseload,76695,
+2016,San Benito,Current Public Assistance,376,19.00%
+2016,San Benito,Former Public Assistance,1167,58.90%
+2016,San Benito,Never Assisted,437,22.10%
+2016,San Benito,Total Caseload,1980,
+2016,San Bernardino,Current Public Assistance,33251,29.70%
+2016,San Bernardino,Former Public Assistance,59647,53.20%
+2016,San Bernardino,Never Assisted,19188,17.10%
+2016,San Bernardino,Total Caseload,112086,
+2016,San Diego,Current Public Assistance,12986,19.80%
+2016,San Diego,Former Public Assistance,30362,46.20%
+2016,San Diego,Never Assisted,22336,34.00%
+2016,San Diego,Total Caseload,65684,
+2016,San Francisco,Current Public Assistance,2372,19.10%
+2016,San Francisco,Former Public Assistance,6836,55.10%
+2016,San Francisco,Never Assisted,3190,25.70%
+2016,San Francisco,Total Caseload,12398,
+2016,San Joaquin,Current Public Assistance,8567,24.70%
+2016,San Joaquin,Former Public Assistance,20025,57.70%
+2016,San Joaquin,Never Assisted,6096,17.60%
+2016,San Joaquin,Total Caseload,34688,
+2016,San Luis Obispo,Current Public Assistance,831,21.20%
+2016,San Luis Obispo,Former Public Assistance,1768,45.20%
+2016,San Luis Obispo,Never Assisted,1313,33.60%
+2016,San Luis Obispo,Total Caseload,3912,
+2016,San Mateo,Current Public Assistance,1174,11.80%
+2016,San Mateo,Former Public Assistance,4528,45.40%
+2016,San Mateo,Never Assisted,4267,42.80%
+2016,San Mateo,Total Caseload,9969,
+2016,Santa Barbara,Current Public Assistance,2523,20.50%
+2016,Santa Barbara,Former Public Assistance,6684,54.40%
+2016,Santa Barbara,Never Assisted,3089,25.10%
+2016,Santa Barbara,Total Caseload,12296,
+2016,Santa Clara,Current Public Assistance,5440,15.60%
+2016,Santa Clara,Former Public Assistance,20305,58.10%
+2016,Santa Clara,Never Assisted,9191,26.30%
+2016,Santa Clara,Total Caseload,34936,
+2016,Santa Cruz,Current Public Assistance,986,18.00%
+2016,Santa Cruz,Former Public Assistance,2993,54.50%
+2016,Santa Cruz,Never Assisted,1512,27.50%
+2016,Santa Cruz,Total Caseload,5491,
+2016,Shasta,Current Public Assistance,2609,22.80%
+2016,Shasta,Former Public Assistance,6882,60.20%
+2016,Shasta,Never Assisted,1934,16.90%
+2016,Shasta,Total Caseload,11425,
+2016,Sierra,Current Public Assistance,16,14.80%
+2016,Sierra,Former Public Assistance,65,60.20%
+2016,Sierra,Never Assisted,27,25.00%
+2016,Sierra,Total Caseload,108,
+2016,Siskiyou,Current Public Assistance,483,17.60%
+2016,Siskiyou,Former Public Assistance,1768,64.50%
+2016,Siskiyou,Never Assisted,492,17.90%
+2016,Siskiyou,Total Caseload,2743,
+2016,Solano,Current Public Assistance,3055,18.80%
+2016,Solano,Former Public Assistance,9381,57.80%
+2016,Solano,Never Assisted,3805,23.40%
+2016,Solano,Total Caseload,16241,
+2016,Sonoma,Current Public Assistance,1836,13.70%
+2016,Sonoma,Former Public Assistance,6996,52.30%
+2016,Sonoma,Never Assisted,4547,34.00%
+2016,Sonoma,Total Caseload,13379,
+2016,Stanislaus,Current Public Assistance,6813,24.10%
+2016,Stanislaus,Former Public Assistance,16855,59.70%
+2016,Stanislaus,Never Assisted,4581,16.20%
+2016,Stanislaus,Total Caseload,28249,
+2016,Sutter,Current Public Assistance,1100,23.70%
+2016,Sutter,Former Public Assistance,2647,57.10%
+2016,Sutter,Never Assisted,890,19.20%
+2016,Sutter,Total Caseload,4637,
+2016,Tehama,Current Public Assistance,986,25.50%
+2016,Tehama,Former Public Assistance,2280,58.90%
+2016,Tehama,Never Assisted,607,15.70%
+2016,Tehama,Total Caseload,3873,
+2016,Trinity,Current Public Assistance,126,19.10%
+2016,Trinity,Former Public Assistance,408,61.70%
+2016,Trinity,Never Assisted,127,19.20%
+2016,Trinity,Total Caseload,661,
+2016,Tulare,Current Public Assistance,4530,18.70%
+2016,Tulare,Former Public Assistance,15735,65.10%
+2016,Tulare,Never Assisted,3900,16.10%
+2016,Tulare,Total Caseload,24165,
+2016,Tuolumne,Current Public Assistance,525,20.40%
+2016,Tuolumne,Former Public Assistance,1473,57.30%
+2016,Tuolumne,Never Assisted,573,22.30%
+2016,Tuolumne,Total Caseload,2571,
+2016,Ventura,Current Public Assistance,3778,17.80%
+2016,Ventura,Former Public Assistance,10663,50.40%
+2016,Ventura,Never Assisted,6725,31.80%
+2016,Ventura,Total Caseload,21166,
+2016,Yolo,Current Public Assistance,1400,18.00%
+2016,Yolo,Former Public Assistance,4767,61.40%
+2016,Yolo,Never Assisted,1602,20.60%
+2016,Yolo,Total Caseload,7769,
+2016,Yuba,Current Public Assistance,1071,26.60%
+2016,Yuba,Former Public Assistance,2289,56.90%
+2016,Yuba,Never Assisted,663,16.50%
+2016,Yuba,Total Caseload,4023,
+2017,Alameda,Current Public Assistance,5990,19.40%
+2017,Alameda,Former Public Assistance,16563,53.60%
+2017,Alameda,Never Assisted,8344,27.00%
+2017,Alameda,Total Caseload,30897,
+2017,Alpine,Current Public Assistance,1,2.80%
+2017,Alpine,Former Public Assistance,24,66.70%
+2017,Alpine,Never Assisted,11,30.60%
+2017,Alpine,Total Caseload,36,
+2017,Amador,Current Public Assistance,204,17.00%
+2017,Amador,Former Public Assistance,686,57.30%
+2017,Amador,Never Assisted,307,25.60%
+2017,Amador,Total Caseload,1197,
+2017,Butte,Current Public Assistance,2381,22.00%
+2017,Butte,Former Public Assistance,6776,62.50%
+2017,Butte,Never Assisted,1677,15.50%
+2017,Butte,Total Caseload,10834,
+2017,Calaveras,Current Public Assistance,373,23.40%
+2017,Calaveras,Former Public Assistance,915,57.40%
+2017,Calaveras,Never Assisted,306,19.20%
+2017,Calaveras,Total Caseload,1594,
+2017,Colusa,Current Public Assistance,85,12.20%
+2017,Colusa,Former Public Assistance,399,57.20%
+2017,Colusa,Never Assisted,214,30.70%
+2017,Colusa,Total Caseload,698,
+2017,Contra Costa,Current Public Assistance,4894,18.60%
+2017,Contra Costa,Former Public Assistance,14288,54.40%
+2017,Contra Costa,Never Assisted,7064,26.90%
+2017,Contra Costa,Total Caseload,26246,
+2017,Del Norte,Current Public Assistance,518,20.60%
+2017,Del Norte,Former Public Assistance,1611,64.00%
+2017,Del Norte,Never Assisted,390,15.50%
+2017,Del Norte,Total Caseload,2519,
+2017,El Dorado,Current Public Assistance,1027,18.20%
+2017,El Dorado,Former Public Assistance,3232,57.40%
+2017,El Dorado,Never Assisted,1370,24.30%
+2017,El Dorado,Total Caseload,5629,
+2017,Fresno,Current Public Assistance,16792,27.90%
+2017,Fresno,Former Public Assistance,36107,60.10%
+2017,Fresno,Never Assisted,7181,12.00%
+2017,Fresno,Total Caseload,60080,
+2017,Glenn,Current Public Assistance,338,20.70%
+2017,Glenn,Former Public Assistance,962,58.90%
+2017,Glenn,Never Assisted,333,20.40%
+2017,Glenn,Total Caseload,1633,
+2017,Humboldt,Current Public Assistance,1158,20.90%
+2017,Humboldt,Former Public Assistance,3166,57.00%
+2017,Humboldt,Never Assisted,1228,22.10%
+2017,Humboldt,Total Caseload,5552,
+2017,Imperial,Current Public Assistance,2803,27.10%
+2017,Imperial,Former Public Assistance,5415,52.40%
+2017,Imperial,Never Assisted,2123,20.50%
+2017,Imperial,Total Caseload,10341,
+2017,Inyo,Current Public Assistance,89,9.00%
+2017,Inyo,Former Public Assistance,569,57.30%
+2017,Inyo,Never Assisted,335,33.70%
+2017,Inyo,Total Caseload,993,
+2017,Kern,Current Public Assistance,14146,28.40%
+2017,Kern,Former Public Assistance,27173,54.60%
+2017,Kern,Never Assisted,8420,16.90%
+2017,Kern,Total Caseload,49739,
+2017,Kings,Current Public Assistance,2167,24.20%
+2017,Kings,Former Public Assistance,5158,57.70%
+2017,Kings,Never Assisted,1612,18.00%
+2017,Kings,Total Caseload,8937,
+2017,Lake,Current Public Assistance,760,27.20%
+2017,Lake,Former Public Assistance,1556,55.80%
+2017,Lake,Never Assisted,474,17.00%
+2017,Lake,Total Caseload,2790,
+2017,Lassen,Current Public Assistance,362,23.20%
+2017,Lassen,Former Public Assistance,894,57.40%
+2017,Lassen,Never Assisted,301,19.30%
+2017,Lassen,Total Caseload,1557,
+2017,Los Angeles,Current Public Assistance,67802,26.50%
+2017,Los Angeles,Former Public Assistance,132454,51.80%
+2017,Los Angeles,Never Assisted,55353,21.70%
+2017,Los Angeles,Total Caseload,255609,
+2017,Madera,Current Public Assistance,1950,30.30%
+2017,Madera,Former Public Assistance,3366,52.40%
+2017,Madera,Never Assisted,1112,17.30%
+2017,Madera,Total Caseload,6428,
+2017,Marin,Current Public Assistance,665,12.10%
+2017,Marin,Former Public Assistance,3470,63.20%
+2017,Marin,Never Assisted,1359,24.70%
+2017,Marin,Total Caseload,5494,
+2017,Mariposa,Current Public Assistance,129,19.80%
+2017,Mariposa,Former Public Assistance,356,54.50%
+2017,Mariposa,Never Assisted,168,25.70%
+2017,Mariposa,Total Caseload,653,
+2017,Mendocino,Current Public Assistance,769,19.80%
+2017,Mendocino,Former Public Assistance,2433,62.70%
+2017,Mendocino,Never Assisted,680,17.50%
+2017,Mendocino,Total Caseload,3882,
+2017,Merced,Current Public Assistance,4390,29.10%
+2017,Merced,Former Public Assistance,8733,57.80%
+2017,Merced,Never Assisted,1979,13.10%
+2017,Merced,Total Caseload,15102,
+2017,Modoc,Current Public Assistance,101,27.40%
+2017,Modoc,Former Public Assistance,197,53.40%
+2017,Modoc,Never Assisted,71,19.20%
+2017,Modoc,Total Caseload,369,
+2017,Mono,Current Public Assistance,15,6.20%
+2017,Mono,Former Public Assistance,93,38.60%
+2017,Mono,Never Assisted,133,55.20%
+2017,Mono,Total Caseload,241,
+2017,Monterey,Current Public Assistance,2591,16.80%
+2017,Monterey,Former Public Assistance,8874,57.40%
+2017,Monterey,Never Assisted,4001,25.90%
+2017,Monterey,Total Caseload,15466,
+2017,Napa,Current Public Assistance,437,12.40%
+2017,Napa,Former Public Assistance,1753,49.90%
+2017,Napa,Never Assisted,1326,37.70%
+2017,Napa,Total Caseload,3516,
+2017,Nevada,Current Public Assistance,462,15.70%
+2017,Nevada,Former Public Assistance,1661,56.40%
+2017,Nevada,Never Assisted,824,28.00%
+2017,Nevada,Total Caseload,2947,
+2017,Orange,Current Public Assistance,11509,17.30%
+2017,Orange,Former Public Assistance,31193,46.80%
+2017,Orange,Never Assisted,23909,35.90%
+2017,Orange,Total Caseload,66611,
+2017,Placer,Current Public Assistance,961,12.60%
+2017,Placer,Former Public Assistance,3958,52.10%
+2017,Placer,Never Assisted,2683,35.30%
+2017,Placer,Total Caseload,7602,
+2017,Plumas,Current Public Assistance,139,16.10%
+2017,Plumas,Former Public Assistance,520,60.00%
+2017,Plumas,Never Assisted,207,23.90%
+2017,Plumas,Total Caseload,866,
+2017,Riverside,Current Public Assistance,20131,24.30%
+2017,Riverside,Former Public Assistance,45033,54.30%
+2017,Riverside,Never Assisted,17714,21.40%
+2017,Riverside,Total Caseload,82878,
+2017,Sacramento,Current Public Assistance,17496,23.00%
+2017,Sacramento,Former Public Assistance,46009,60.40%
+2017,Sacramento,Never Assisted,12630,16.60%
+2017,Sacramento,Total Caseload,76135,
+2017,San Benito,Current Public Assistance,357,18.40%
+2017,San Benito,Former Public Assistance,1146,59.00%
+2017,San Benito,Never Assisted,439,22.60%
+2017,San Benito,Total Caseload,1942,
+2017,San Bernardino,Current Public Assistance,31163,28.30%
+2017,San Bernardino,Former Public Assistance,60067,54.60%
+2017,San Bernardino,Never Assisted,18814,17.10%
+2017,San Bernardino,Total Caseload,110044,
+2017,San Diego,Current Public Assistance,11654,18.50%
+2017,San Diego,Former Public Assistance,29310,46.50%
+2017,San Diego,Never Assisted,22010,35.00%
+2017,San Diego,Total Caseload,62974,
+2017,San Francisco,Current Public Assistance,2059,17.60%
+2017,San Francisco,Former Public Assistance,6539,55.90%
+2017,San Francisco,Never Assisted,3091,26.40%
+2017,San Francisco,Total Caseload,11689,
+2017,San Joaquin,Current Public Assistance,8160,23.70%
+2017,San Joaquin,Former Public Assistance,20346,59.00%
+2017,San Joaquin,Never Assisted,5966,17.30%
+2017,San Joaquin,Total Caseload,34472,
+2017,San Luis Obispo,Current Public Assistance,762,20.20%
+2017,San Luis Obispo,Former Public Assistance,1720,45.70%
+2017,San Luis Obispo,Never Assisted,1282,34.10%
+2017,San Luis Obispo,Total Caseload,3764,
+2017,San Mateo,Current Public Assistance,954,10.00%
+2017,San Mateo,Former Public Assistance,4397,46.00%
+2017,San Mateo,Never Assisted,4214,44.10%
+2017,San Mateo,Total Caseload,9565,
+2017,Santa Barbara,Current Public Assistance,2288,19.10%
+2017,Santa Barbara,Former Public Assistance,6590,55.00%
+2017,Santa Barbara,Never Assisted,3111,25.90%
+2017,Santa Barbara,Total Caseload,11989,
+2017,Santa Clara,Current Public Assistance,4872,14.60%
+2017,Santa Clara,Former Public Assistance,19686,58.90%
+2017,Santa Clara,Never Assisted,8893,26.60%
+2017,Santa Clara,Total Caseload,33451,
+2017,Santa Cruz,Current Public Assistance,991,18.30%
+2017,Santa Cruz,Former Public Assistance,2938,54.30%
+2017,Santa Cruz,Never Assisted,1477,27.30%
+2017,Santa Cruz,Total Caseload,5406,
+2017,Shasta,Current Public Assistance,2360,21.50%
+2017,Shasta,Former Public Assistance,6725,61.40%
+2017,Shasta,Never Assisted,1870,17.10%
+2017,Shasta,Total Caseload,10955,
+2017,Sierra,Current Public Assistance,16,16.00%
+2017,Sierra,Former Public Assistance,59,59.00%
+2017,Sierra,Never Assisted,25,25.00%
+2017,Sierra,Total Caseload,100,
+2017,Siskiyou,Current Public Assistance,508,19.10%
+2017,Siskiyou,Former Public Assistance,1678,63.10%
+2017,Siskiyou,Never Assisted,475,17.90%
+2017,Siskiyou,Total Caseload,2661,
+2017,Solano,Current Public Assistance,2928,18.50%
+2017,Solano,Former Public Assistance,9155,58.00%
+2017,Solano,Never Assisted,3705,23.50%
+2017,Solano,Total Caseload,15788,
+2017,Sonoma,Current Public Assistance,1682,12.90%
+2017,Sonoma,Former Public Assistance,6767,52.00%
+2017,Sonoma,Never Assisted,4564,35.10%
+2017,Sonoma,Total Caseload,13013,
+2017,Stanislaus,Current Public Assistance,6289,22.80%
+2017,Stanislaus,Former Public Assistance,16721,60.70%
+2017,Stanislaus,Never Assisted,4535,16.50%
+2017,Stanislaus,Total Caseload,27545,
+2017,Sutter,Current Public Assistance,1108,24.20%
+2017,Sutter,Former Public Assistance,2598,56.70%
+2017,Sutter,Never Assisted,873,19.10%
+2017,Sutter,Total Caseload,4579,
+2017,Tehama,Current Public Assistance,891,24.10%
+2017,Tehama,Former Public Assistance,2214,60.00%
+2017,Tehama,Never Assisted,586,15.90%
+2017,Tehama,Total Caseload,3691,
+2017,Trinity,Current Public Assistance,101,16.10%
+2017,Trinity,Former Public Assistance,403,64.40%
+2017,Trinity,Never Assisted,122,19.50%
+2017,Trinity,Total Caseload,626,
+2017,Tulare,Current Public Assistance,4147,17.70%
+2017,Tulare,Former Public Assistance,15459,65.80%
+2017,Tulare,Never Assisted,3873,16.50%
+2017,Tulare,Total Caseload,23479,
+2017,Tuolumne,Current Public Assistance,510,20.20%
+2017,Tuolumne,Former Public Assistance,1474,58.50%
+2017,Tuolumne,Never Assisted,536,21.30%
+2017,Tuolumne,Total Caseload,2520,
+2017,Ventura,Current Public Assistance,3675,17.80%
+2017,Ventura,Former Public Assistance,10464,50.80%
+2017,Ventura,Never Assisted,6457,31.40%
+2017,Ventura,Total Caseload,20596,
+2017,Yolo,Current Public Assistance,1221,16.30%
+2017,Yolo,Former Public Assistance,4682,62.60%
+2017,Yolo,Never Assisted,1580,21.10%
+2017,Yolo,Total Caseload,7483,
+2017,Yuba,Current Public Assistance,1064,27.10%
+2017,Yuba,Former Public Assistance,2235,56.90%
+2017,Yuba,Never Assisted,631,16.10%
+2017,Yuba,Total Caseload,3930,
+2018,Alameda,Current Public Assistance,6555,20.60%
+2018,Alameda,Former Public Assistance,16936,53.30%
+2018,Alameda,Never Assisted,8290,26.10%
+2018,Alameda,Total Caseload,31781,
+2018,Alpine,Current Public Assistance,0,0.00%
+2018,Alpine,Former Public Assistance,24,70.60%
+2018,Alpine,Never Assisted,10,29.40%
+2018,Alpine,Total Caseload,34,
+2018,Amador,Current Public Assistance,193,16.50%
+2018,Amador,Former Public Assistance,679,58.10%
+2018,Amador,Never Assisted,297,25.40%
+2018,Amador,Total Caseload,1169,
+2018,Butte,Current Public Assistance,2292,21.50%
+2018,Butte,Former Public Assistance,6747,63.10%
+2018,Butte,Never Assisted,1646,15.40%
+2018,Butte,Total Caseload,10685,
+2018,Calaveras,Current Public Assistance,327,21.40%
+2018,Calaveras,Former Public Assistance,903,59.10%
+2018,Calaveras,Never Assisted,299,19.60%
+2018,Calaveras,Total Caseload,1529,
+2018,Colusa,Current Public Assistance,82,12.30%
+2018,Colusa,Former Public Assistance,375,56.10%
+2018,Colusa,Never Assisted,212,31.70%
+2018,Colusa,Total Caseload,669,
+2018,Contra Costa,Current Public Assistance,4438,17.20%
+2018,Contra Costa,Former Public Assistance,14383,55.80%
+2018,Contra Costa,Never Assisted,6977,27.00%
+2018,Contra Costa,Total Caseload,25798,
+2018,Del Norte,Current Public Assistance,481,19.20%
+2018,Del Norte,Former Public Assistance,1651,65.90%
+2018,Del Norte,Never Assisted,374,14.90%
+2018,Del Norte,Total Caseload,2506,
+2018,El Dorado,Current Public Assistance,956,17.30%
+2018,El Dorado,Former Public Assistance,3232,58.50%
+2018,El Dorado,Never Assisted,1336,24.20%
+2018,El Dorado,Total Caseload,5524,
+2018,Fresno,Current Public Assistance,15542,25.90%
+2018,Fresno,Former Public Assistance,37330,62.20%
+2018,Fresno,Never Assisted,7162,11.90%
+2018,Fresno,Total Caseload,60034,
+2018,Glenn,Current Public Assistance,334,20.40%
+2018,Glenn,Former Public Assistance,974,59.40%
+2018,Glenn,Never Assisted,333,20.30%
+2018,Glenn,Total Caseload,1641,
+2018,Humboldt,Current Public Assistance,1147,22.00%
+2018,Humboldt,Former Public Assistance,2869,55.10%
+2018,Humboldt,Never Assisted,1195,22.90%
+2018,Humboldt,Total Caseload,5211,
+2018,Imperial,Current Public Assistance,2598,25.50%
+2018,Imperial,Former Public Assistance,5533,54.20%
+2018,Imperial,Never Assisted,2075,20.30%
+2018,Imperial,Total Caseload,10206,
+2018,Inyo,Current Public Assistance,82,8.70%
+2018,Inyo,Former Public Assistance,538,57.30%
+2018,Inyo,Never Assisted,319,34.00%
+2018,Inyo,Total Caseload,939,
+2018,Kern,Current Public Assistance,14421,28.20%
+2018,Kern,Former Public Assistance,28276,55.40%
+2018,Kern,Never Assisted,8360,16.40%
+2018,Kern,Total Caseload,51057,
+2018,Kings,Current Public Assistance,2250,25.10%
+2018,Kings,Former Public Assistance,5139,57.30%
+2018,Kings,Never Assisted,1580,17.60%
+2018,Kings,Total Caseload,8969,
+2018,Lake,Current Public Assistance,705,26.10%
+2018,Lake,Former Public Assistance,1526,56.50%
+2018,Lake,Never Assisted,469,17.40%
+2018,Lake,Total Caseload,2700,
+2018,Lassen,Current Public Assistance,311,20.60%
+2018,Lassen,Former Public Assistance,914,60.60%
+2018,Lassen,Never Assisted,283,18.80%
+2018,Lassen,Total Caseload,1508,
+2018,Los Angeles,Current Public Assistance,60369,24.60%
+2018,Los Angeles,Former Public Assistance,131214,53.50%
+2018,Los Angeles,Never Assisted,53511,21.80%
+2018,Los Angeles,Total Caseload,245094,
+2018,Madera,Current Public Assistance,1935,29.60%
+2018,Madera,Former Public Assistance,3501,53.50%
+2018,Madera,Never Assisted,1107,16.90%
+2018,Madera,Total Caseload,6543,
+2018,Marin,Current Public Assistance,550,11.50%
+2018,Marin,Former Public Assistance,2954,61.70%
+2018,Marin,Never Assisted,1285,26.80%
+2018,Marin,Total Caseload,4789,
+2018,Mariposa,Current Public Assistance,124,19.00%
+2018,Mariposa,Former Public Assistance,370,56.60%
+2018,Mariposa,Never Assisted,160,24.50%
+2018,Mariposa,Total Caseload,654,
+2018,Mendocino,Current Public Assistance,718,18.70%
+2018,Mendocino,Former Public Assistance,2452,63.90%
+2018,Mendocino,Never Assisted,668,17.40%
+2018,Mendocino,Total Caseload,3838,
+2018,Merced,Current Public Assistance,3975,26.60%
+2018,Merced,Former Public Assistance,8980,60.20%
+2018,Merced,Never Assisted,1966,13.20%
+2018,Merced,Total Caseload,14921,
+2018,Modoc,Current Public Assistance,77,22.10%
+2018,Modoc,Former Public Assistance,200,57.50%
+2018,Modoc,Never Assisted,71,20.40%
+2018,Modoc,Total Caseload,348,
+2018,Mono,Current Public Assistance,14,6.00%
+2018,Mono,Former Public Assistance,88,37.40%
+2018,Mono,Never Assisted,133,56.60%
+2018,Mono,Total Caseload,235,
+2018,Monterey,Current Public Assistance,2201,14.90%
+2018,Monterey,Former Public Assistance,8688,58.80%
+2018,Monterey,Never Assisted,3878,26.30%
+2018,Monterey,Total Caseload,14767,
+2018,Napa,Current Public Assistance,384,11.30%
+2018,Napa,Former Public Assistance,1682,49.50%
+2018,Napa,Never Assisted,1329,39.10%
+2018,Napa,Total Caseload,3395,
+2018,Nevada,Current Public Assistance,405,15.20%
+2018,Nevada,Former Public Assistance,1476,55.40%
+2018,Nevada,Never Assisted,783,29.40%
+2018,Nevada,Total Caseload,2664,
+2018,Orange,Current Public Assistance,10536,16.10%
+2018,Orange,Former Public Assistance,31319,47.80%
+2018,Orange,Never Assisted,23607,36.10%
+2018,Orange,Total Caseload,65462,
+2018,Placer,Current Public Assistance,826,11.40%
+2018,Placer,Former Public Assistance,3734,51.50%
+2018,Placer,Never Assisted,2686,37.10%
+2018,Placer,Total Caseload,7246,
+2018,Plumas,Current Public Assistance,111,13.30%
+2018,Plumas,Former Public Assistance,523,62.80%
+2018,Plumas,Never Assisted,199,23.90%
+2018,Plumas,Total Caseload,833,
+2018,Riverside,Current Public Assistance,18522,22.30%
+2018,Riverside,Former Public Assistance,46649,56.20%
+2018,Riverside,Never Assisted,17825,21.50%
+2018,Riverside,Total Caseload,82996,
+2018,Sacramento,Current Public Assistance,15989,21.30%
+2018,Sacramento,Former Public Assistance,46745,62.30%
+2018,Sacramento,Never Assisted,12250,16.30%
+2018,Sacramento,Total Caseload,74984,
+2018,San Benito,Current Public Assistance,350,18.20%
+2018,San Benito,Former Public Assistance,1133,59.00%
+2018,San Benito,Never Assisted,438,22.80%
+2018,San Benito,Total Caseload,1921,
+2018,San Bernardino,Current Public Assistance,28219,26.50%
+2018,San Bernardino,Former Public Assistance,59800,56.20%
+2018,San Bernardino,Never Assisted,18373,17.30%
+2018,San Bernardino,Total Caseload,106392,
+2018,San Diego,Current Public Assistance,10901,17.50%
+2018,San Diego,Former Public Assistance,29482,47.30%
+2018,San Diego,Never Assisted,21918,35.20%
+2018,San Diego,Total Caseload,62301,
+2018,San Francisco,Current Public Assistance,1949,17.80%
+2018,San Francisco,Former Public Assistance,6075,55.60%
+2018,San Francisco,Never Assisted,2911,26.60%
+2018,San Francisco,Total Caseload,10935,
+2018,San Joaquin,Current Public Assistance,7465,21.70%
+2018,San Joaquin,Former Public Assistance,21013,61.00%
+2018,San Joaquin,Never Assisted,5967,17.30%
+2018,San Joaquin,Total Caseload,34445,
+2018,San Luis Obispo,Current Public Assistance,736,19.40%
+2018,San Luis Obispo,Former Public Assistance,1747,46.00%
+2018,San Luis Obispo,Never Assisted,1313,34.60%
+2018,San Luis Obispo,Total Caseload,3796,
+2018,San Mateo,Current Public Assistance,739,8.10%
+2018,San Mateo,Former Public Assistance,4221,46.40%
+2018,San Mateo,Never Assisted,4146,45.50%
+2018,San Mateo,Total Caseload,9106,
+2018,Santa Barbara,Current Public Assistance,2302,19.20%
+2018,Santa Barbara,Former Public Assistance,6649,55.60%
+2018,Santa Barbara,Never Assisted,3013,25.20%
+2018,Santa Barbara,Total Caseload,11964,
+2018,Santa Clara,Current Public Assistance,4346,13.50%
+2018,Santa Clara,Former Public Assistance,19174,59.60%
+2018,Santa Clara,Never Assisted,8664,26.90%
+2018,Santa Clara,Total Caseload,32184,
+2018,Santa Cruz,Current Public Assistance,914,17.10%
+2018,Santa Cruz,Former Public Assistance,2955,55.30%
+2018,Santa Cruz,Never Assisted,1473,27.60%
+2018,Santa Cruz,Total Caseload,5342,
+2018,Shasta,Current Public Assistance,2172,20.70%
+2018,Shasta,Former Public Assistance,6498,62.00%
+2018,Shasta,Never Assisted,1812,17.30%
+2018,Shasta,Total Caseload,10482,
+2018,Sierra,Current Public Assistance,8,8.80%
+2018,Sierra,Former Public Assistance,59,64.80%
+2018,Sierra,Never Assisted,24,26.40%
+2018,Sierra,Total Caseload,91,
+2018,Siskiyou,Current Public Assistance,468,18.10%
+2018,Siskiyou,Former Public Assistance,1639,63.50%
+2018,Siskiyou,Never Assisted,473,18.30%
+2018,Siskiyou,Total Caseload,2580,
+2018,Solano,Current Public Assistance,2889,18.10%
+2018,Solano,Former Public Assistance,9264,58.10%
+2018,Solano,Never Assisted,3801,23.80%
+2018,Solano,Total Caseload,15954,
+2018,Sonoma,Current Public Assistance,1570,12.40%
+2018,Sonoma,Former Public Assistance,6555,51.90%
+2018,Sonoma,Never Assisted,4506,35.70%
+2018,Sonoma,Total Caseload,12631,
+2018,Stanislaus,Current Public Assistance,5745,21.30%
+2018,Stanislaus,Former Public Assistance,16733,62.20%
+2018,Stanislaus,Never Assisted,4438,16.50%
+2018,Stanislaus,Total Caseload,26916,
+2018,Sutter,Current Public Assistance,973,22.00%
+2018,Sutter,Former Public Assistance,2602,58.70%
+2018,Sutter,Never Assisted,855,19.30%
+2018,Sutter,Total Caseload,4430,
+2018,Tehama,Current Public Assistance,830,23.40%
+2018,Tehama,Former Public Assistance,2159,60.70%
+2018,Tehama,Never Assisted,565,15.90%
+2018,Tehama,Total Caseload,3554,
+2018,Trinity,Current Public Assistance,141,14.60%
+2018,Trinity,Former Public Assistance,649,67.20%
+2018,Trinity,Never Assisted,176,18.20%
+2018,Trinity,Total Caseload,966,
+2018,Tulare,Current Public Assistance,3933,17.50%
+2018,Tulare,Former Public Assistance,14830,66.10%
+2018,Tulare,Never Assisted,3682,16.40%
+2018,Tulare,Total Caseload,22445,
+2018,Tuolumne,Current Public Assistance,438,18.20%
+2018,Tuolumne,Former Public Assistance,1457,60.40%
+2018,Tuolumne,Never Assisted,518,21.50%
+2018,Tuolumne,Total Caseload,2413,
+2018,Ventura,Current Public Assistance,3347,16.50%
+2018,Ventura,Former Public Assistance,10544,52.00%
+2018,Ventura,Never Assisted,6368,31.40%
+2018,Ventura,Total Caseload,20259,
+2018,Yolo,Current Public Assistance,1147,15.50%
+2018,Yolo,Former Public Assistance,4680,63.10%
+2018,Yolo,Never Assisted,1593,21.50%
+2018,Yolo,Total Caseload,7420,
+2018,Yuba,Current Public Assistance,1057,27.40%
+2018,Yuba,Former Public Assistance,2196,56.90%
+2018,Yuba,Never Assisted,606,15.70%
+2018,Yuba,Total Caseload,3859,
+2019,Alameda,Current Public Assistance,5860,19.00%
+2019,Alameda,Former Public Assistance,16881,54.80%
+2019,Alameda,Never Assisted,8072,26.20%
+2019,Alameda,Total Caseload,30813,
+2019,Alpine,Current Public Assistance,0,0.00%
+2019,Alpine,Former Public Assistance,27,75.00%
+2019,Alpine,Never Assisted,9,25.00%
+2019,Alpine,Total Caseload,36,
+2019,Amador,Current Public Assistance,161,14.00%
+2019,Amador,Former Public Assistance,685,59.50%
+2019,Amador,Never Assisted,305,26.50%
+2019,Amador,Total Caseload,1151,
+2019,Butte,Current Public Assistance,1902,19.10%
+2019,Butte,Former Public Assistance,6532,65.50%
+2019,Butte,Never Assisted,1545,15.50%
+2019,Butte,Total Caseload,9979,
+2019,Calaveras,Current Public Assistance,245,16.40%
+2019,Calaveras,Former Public Assistance,940,62.90%
+2019,Calaveras,Never Assisted,310,20.70%
+2019,Calaveras,Total Caseload,1495,
+2019,Colusa,Current Public Assistance,71,10.50%
+2019,Colusa,Former Public Assistance,369,54.80%
+2019,Colusa,Never Assisted,233,34.60%
+2019,Colusa,Total Caseload,673,
+2019,Contra Costa,Current Public Assistance,4071,15.30%
+2019,Contra Costa,Former Public Assistance,14756,55.40%
+2019,Contra Costa,Never Assisted,7821,29.30%
+2019,Contra Costa,Total Caseload,26648,
+2019,Del Norte,Current Public Assistance,468,20.30%
+2019,Del Norte,Former Public Assistance,1495,64.80%
+2019,Del Norte,Never Assisted,344,14.90%
+2019,Del Norte,Total Caseload,2307,
+2019,El Dorado,Current Public Assistance,863,15.80%
+2019,El Dorado,Former Public Assistance,3248,59.60%
+2019,El Dorado,Never Assisted,1336,24.50%
+2019,El Dorado,Total Caseload,5447,
+2019,Fresno,Current Public Assistance,14882,24.80%
+2019,Fresno,Former Public Assistance,37872,63.10%
+2019,Fresno,Never Assisted,7247,12.10%
+2019,Fresno,Total Caseload,60001,
+2019,Glenn,Current Public Assistance,357,21.50%
+2019,Glenn,Former Public Assistance,983,59.10%
+2019,Glenn,Never Assisted,322,19.40%
+2019,Glenn,Total Caseload,1662,
+2019,Humboldt,Current Public Assistance,1071,20.80%
+2019,Humboldt,Former Public Assistance,2883,56.00%
+2019,Humboldt,Never Assisted,1191,23.10%
+2019,Humboldt,Total Caseload,5145,
+2019,Imperial,Current Public Assistance,2332,23.50%
+2019,Imperial,Former Public Assistance,5539,55.90%
+2019,Imperial,Never Assisted,2044,20.60%
+2019,Imperial,Total Caseload,9915,
+2019,Inyo,Current Public Assistance,78,8.30%
+2019,Inyo,Former Public Assistance,543,57.80%
+2019,Inyo,Never Assisted,318,33.90%
+2019,Inyo,Total Caseload,939,
+2019,Kern,Current Public Assistance,14266,27.60%
+2019,Kern,Former Public Assistance,29273,56.60%
+2019,Kern,Never Assisted,8173,15.80%
+2019,Kern,Total Caseload,51712,
+2019,Kings,Current Public Assistance,2202,24.70%
+2019,Kings,Former Public Assistance,5164,57.90%
+2019,Kings,Never Assisted,1552,17.40%
+2019,Kings,Total Caseload,8918,
+2019,Lake,Current Public Assistance,682,25.50%
+2019,Lake,Former Public Assistance,1521,57.00%
+2019,Lake,Never Assisted,467,17.50%
+2019,Lake,Total Caseload,2670,
+2019,Lassen,Current Public Assistance,337,22.50%
+2019,Lassen,Former Public Assistance,888,59.20%
+2019,Lassen,Never Assisted,275,18.30%
+2019,Lassen,Total Caseload,1500,
+2019,Los Angeles,Current Public Assistance,54728,23.20%
+2019,Los Angeles,Former Public Assistance,128182,54.40%
+2019,Los Angeles,Never Assisted,52802,22.40%
+2019,Los Angeles,Total Caseload,235712,
+2019,Madera,Current Public Assistance,1804,27.30%
+2019,Madera,Former Public Assistance,3670,55.60%
+2019,Madera,Never Assisted,1122,17.00%
+2019,Madera,Total Caseload,6596,
+2019,Marin,Current Public Assistance,490,11.20%
+2019,Marin,Former Public Assistance,2655,60.60%
+2019,Marin,Never Assisted,1237,28.20%
+2019,Marin,Total Caseload,4382,
+2019,Mariposa,Current Public Assistance,128,19.50%
+2019,Mariposa,Former Public Assistance,366,55.90%
+2019,Mariposa,Never Assisted,161,24.60%
+2019,Mariposa,Total Caseload,655,
+2019,Mendocino,Current Public Assistance,652,17.90%
+2019,Mendocino,Former Public Assistance,2342,64.20%
+2019,Mendocino,Never Assisted,655,18.00%
+2019,Mendocino,Total Caseload,3649,
+2019,Merced,Current Public Assistance,3864,25.90%
+2019,Merced,Former Public Assistance,9133,61.20%
+2019,Merced,Never Assisted,1937,13.00%
+2019,Merced,Total Caseload,14934,
+2019,Modoc,Current Public Assistance,68,24.90%
+2019,Modoc,Former Public Assistance,159,58.20%
+2019,Modoc,Never Assisted,46,16.80%
+2019,Modoc,Total Caseload,273,
+2019,Mono,Current Public Assistance,15,6.80%
+2019,Mono,Former Public Assistance,85,38.60%
+2019,Mono,Never Assisted,120,54.50%
+2019,Mono,Total Caseload,220,
+2019,Monterey,Current Public Assistance,1989,13.90%
+2019,Monterey,Former Public Assistance,8424,58.90%
+2019,Monterey,Never Assisted,3880,27.10%
+2019,Monterey,Total Caseload,14293,
+2019,Napa,Current Public Assistance,352,10.80%
+2019,Napa,Former Public Assistance,1628,50.20%
+2019,Napa,Never Assisted,1266,39.00%
+2019,Napa,Total Caseload,3246,
+2019,Nevada,Current Public Assistance,453,17.00%
+2019,Nevada,Former Public Assistance,1447,54.40%
+2019,Nevada,Never Assisted,762,28.60%
+2019,Nevada,Total Caseload,2662,
+2019,Orange,Current Public Assistance,9502,15.00%
+2019,Orange,Former Public Assistance,30772,48.50%
+2019,Orange,Never Assisted,23203,36.60%
+2019,Orange,Total Caseload,63477,
+2019,Placer,Current Public Assistance,766,11.10%
+2019,Placer,Former Public Assistance,3550,51.30%
+2019,Placer,Never Assisted,2599,37.60%
+2019,Placer,Total Caseload,6915,
+2019,Plumas,Current Public Assistance,123,15.20%
+2019,Plumas,Former Public Assistance,493,60.80%
+2019,Plumas,Never Assisted,195,24.00%
+2019,Plumas,Total Caseload,811,
+2019,Riverside,Current Public Assistance,16853,20.90%
+2019,Riverside,Former Public Assistance,46030,57.20%
+2019,Riverside,Never Assisted,17612,21.90%
+2019,Riverside,Total Caseload,80495,
+2019,Sacramento,Current Public Assistance,14371,19.80%
+2019,Sacramento,Former Public Assistance,46202,63.70%
+2019,Sacramento,Never Assisted,11939,16.50%
+2019,Sacramento,Total Caseload,72512,
+2019,San Benito,Current Public Assistance,307,16.10%
+2019,San Benito,Former Public Assistance,1153,60.60%
+2019,San Benito,Never Assisted,443,23.30%
+2019,San Benito,Total Caseload,1903,
+2019,San Bernardino,Current Public Assistance,26183,25.90%
+2019,San Bernardino,Former Public Assistance,57185,56.60%
+2019,San Bernardino,Never Assisted,17673,17.50%
+2019,San Bernardino,Total Caseload,101041,
+2019,San Diego,Current Public Assistance,9847,16.00%
+2019,San Diego,Former Public Assistance,29273,47.60%
+2019,San Diego,Never Assisted,22391,36.40%
+2019,San Diego,Total Caseload,61511,
+2019,San Francisco,Current Public Assistance,1700,16.70%
+2019,San Francisco,Former Public Assistance,5722,56.10%
+2019,San Francisco,Never Assisted,2782,27.30%
+2019,San Francisco,Total Caseload,10204,
+2019,San Joaquin,Current Public Assistance,7341,21.50%
+2019,San Joaquin,Former Public Assistance,20947,61.30%
+2019,San Joaquin,Never Assisted,5905,17.30%
+2019,San Joaquin,Total Caseload,34193,
+2019,San Luis Obispo,Current Public Assistance,740,19.40%
+2019,San Luis Obispo,Former Public Assistance,1737,45.60%
+2019,San Luis Obispo,Never Assisted,1332,35.00%
+2019,San Luis Obispo,Total Caseload,3809,
+2019,San Mateo,Current Public Assistance,731,8.30%
+2019,San Mateo,Former Public Assistance,3983,45.30%
+2019,San Mateo,Never Assisted,4074,46.40%
+2019,San Mateo,Total Caseload,8788,
+2019,Santa Barbara,Current Public Assistance,2274,19.20%
+2019,Santa Barbara,Former Public Assistance,6618,55.70%
+2019,Santa Barbara,Never Assisted,2982,25.10%
+2019,Santa Barbara,Total Caseload,11874,
+2019,Santa Clara,Current Public Assistance,3925,12.80%
+2019,Santa Clara,Former Public Assistance,18197,59.40%
+2019,Santa Clara,Never Assisted,8495,27.70%
+2019,Santa Clara,Total Caseload,30617,
+2019,Santa Cruz,Current Public Assistance,919,17.90%
+2019,Santa Cruz,Former Public Assistance,2781,54.00%
+2019,Santa Cruz,Never Assisted,1446,28.10%
+2019,Santa Cruz,Total Caseload,5146,
+2019,Shasta,Current Public Assistance,2135,20.60%
+2019,Shasta,Former Public Assistance,6442,62.20%
+2019,Shasta,Never Assisted,1777,17.20%
+2019,Shasta,Total Caseload,10354,
+2019,Sierra,Current Public Assistance,14,15.20%
+2019,Sierra,Former Public Assistance,56,60.90%
+2019,Sierra,Never Assisted,22,23.90%
+2019,Sierra,Total Caseload,92,
+2019,Siskiyou,Current Public Assistance,455,17.70%
+2019,Siskiyou,Former Public Assistance,1603,62.40%
+2019,Siskiyou,Never Assisted,509,19.80%
+2019,Siskiyou,Total Caseload,2567,
+2019,Solano,Current Public Assistance,2618,16.90%
+2019,Solano,Former Public Assistance,9145,59.00%
+2019,Solano,Never Assisted,3731,24.10%
+2019,Solano,Total Caseload,15494,
+2019,Sonoma,Current Public Assistance,1388,13.00%
+2019,Sonoma,Former Public Assistance,5653,52.80%
+2019,Sonoma,Never Assisted,3657,34.20%
+2019,Sonoma,Total Caseload,10698,
+2019,Stanislaus,Current Public Assistance,5406,20.50%
+2019,Stanislaus,Former Public Assistance,16629,63.00%
+2019,Stanislaus,Never Assisted,4354,16.50%
+2019,Stanislaus,Total Caseload,26389,
+2019,Sutter,Current Public Assistance,950,22.00%
+2019,Sutter,Former Public Assistance,2560,59.20%
+2019,Sutter,Never Assisted,811,18.80%
+2019,Sutter,Total Caseload,4321,
+2019,Tehama,Current Public Assistance,893,25.00%
+2019,Tehama,Former Public Assistance,2142,59.90%
+2019,Tehama,Never Assisted,539,15.10%
+2019,Tehama,Total Caseload,3574,
+2019,Trinity,Current Public Assistance,91,11.30%
+2019,Trinity,Former Public Assistance,565,70.30%
+2019,Trinity,Never Assisted,148,18.40%
+2019,Trinity,Total Caseload,804,
+2019,Tulare,Current Public Assistance,3891,17.70%
+2019,Tulare,Former Public Assistance,14520,65.90%
+2019,Tulare,Never Assisted,3632,16.50%
+2019,Tulare,Total Caseload,22043,
+2019,Tuolumne,Current Public Assistance,386,16.20%
+2019,Tuolumne,Former Public Assistance,1483,62.20%
+2019,Tuolumne,Never Assisted,516,21.60%
+2019,Tuolumne,Total Caseload,2385,
+2019,Ventura,Current Public Assistance,3068,15.60%
+2019,Ventura,Former Public Assistance,10395,53.00%
+2019,Ventura,Never Assisted,6145,31.30%
+2019,Ventura,Total Caseload,19608,
+2019,Yolo,Current Public Assistance,986,13.90%
+2019,Yolo,Former Public Assistance,4564,64.10%
+2019,Yolo,Never Assisted,1567,22.00%
+2019,Yolo,Total Caseload,7117,
+2019,Yuba,Current Public Assistance,1065,27.40%
+2019,Yuba,Former Public Assistance,2209,56.80%
+2019,Yuba,Never Assisted,614,15.80%
+2019,Yuba,Total Caseload,3888,
+2020,Alameda,Current Public Assistance,4874,16.40%
+2020,Alameda,Former Public Assistance,16464,55.40%
+2020,Alameda,Never Assisted,8387,28.20%
+2020,Alameda,Total Caseload,29725,
+2020,Alpine,Current Public Assistance,0,0.00%
+2020,Alpine,Former Public Assistance,26,74.30%
+2020,Alpine,Never Assisted,9,25.70%
+2020,Alpine,Total Caseload,35,
+2020,Amador,Current Public Assistance,134,12.10%
+2020,Amador,Former Public Assistance,671,60.80%
+2020,Amador,Never Assisted,299,27.10%
+2020,Amador,Total Caseload,1104,
+2020,Butte,Current Public Assistance,1539,16.30%
+2020,Butte,Former Public Assistance,6449,68.10%
+2020,Butte,Never Assisted,1477,15.60%
+2020,Butte,Total Caseload,9465,
+2020,Calaveras,Current Public Assistance,222,15.40%
+2020,Calaveras,Former Public Assistance,903,62.60%
+2020,Calaveras,Never Assisted,318,22.00%
+2020,Calaveras,Total Caseload,1443,
+2020,Colusa,Current Public Assistance,84,11.90%
+2020,Colusa,Former Public Assistance,376,53.30%
+2020,Colusa,Never Assisted,245,34.80%
+2020,Colusa,Total Caseload,705,
+2020,Contra Costa,Current Public Assistance,3493,13.50%
+2020,Contra Costa,Former Public Assistance,14545,56.00%
+2020,Contra Costa,Never Assisted,7925,30.50%
+2020,Contra Costa,Total Caseload,25963,
+2020,Del Norte,Current Public Assistance,372,17.00%
+2020,Del Norte,Former Public Assistance,1467,67.10%
+2020,Del Norte,Never Assisted,346,15.80%
+2020,Del Norte,Total Caseload,2185,
+2020,El Dorado,Current Public Assistance,740,14.20%
+2020,El Dorado,Former Public Assistance,3114,59.90%
+2020,El Dorado,Never Assisted,1343,25.80%
+2020,El Dorado,Total Caseload,5197,
+2020,Fresno,Current Public Assistance,11948,20.60%
+2020,Fresno,Former Public Assistance,39071,67.20%
+2020,Fresno,Never Assisted,7102,12.20%
+2020,Fresno,Total Caseload,58121,
+2020,Glenn,Current Public Assistance,301,18.70%
+2020,Glenn,Former Public Assistance,1001,62.10%
+2020,Glenn,Never Assisted,309,19.20%
+2020,Glenn,Total Caseload,1611,
+2020,Humboldt,Current Public Assistance,989,19.70%
+2020,Humboldt,Former Public Assistance,2816,56.10%
+2020,Humboldt,Never Assisted,1213,24.20%
+2020,Humboldt,Total Caseload,5018,
+2020,Imperial,Current Public Assistance,1956,20.20%
+2020,Imperial,Former Public Assistance,5729,59.30%
+2020,Imperial,Never Assisted,1979,20.50%
+2020,Imperial,Total Caseload,9664,
+2020,Inyo,Current Public Assistance,71,8.10%
+2020,Inyo,Former Public Assistance,503,57.50%
+2020,Inyo,Never Assisted,301,34.40%
+2020,Inyo,Total Caseload,875,
+2020,Kern,Current Public Assistance,12593,24.50%
+2020,Kern,Former Public Assistance,30687,59.80%
+2020,Kern,Never Assisted,8066,15.70%
+2020,Kern,Total Caseload,51346,
+2020,Kings,Current Public Assistance,1868,21.40%
+2020,Kings,Former Public Assistance,5338,61.10%
+2020,Kings,Never Assisted,1532,17.50%
+2020,Kings,Total Caseload,8738,
+2020,Lake,Current Public Assistance,548,21.20%
+2020,Lake,Former Public Assistance,1577,61.00%
+2020,Lake,Never Assisted,460,17.80%
+2020,Lake,Total Caseload,2585,
+2020,Lassen,Current Public Assistance,305,20.80%
+2020,Lassen,Former Public Assistance,896,61.00%
+2020,Lassen,Never Assisted,268,18.20%
+2020,Lassen,Total Caseload,1469,
+2020,Los Angeles,Current Public Assistance,48855,21.50%
+2020,Los Angeles,Former Public Assistance,127141,55.90%
+2020,Los Angeles,Never Assisted,51403,22.60%
+2020,Los Angeles,Total Caseload,227399,
+2020,Madera,Current Public Assistance,1618,25.20%
+2020,Madera,Former Public Assistance,3694,57.40%
+2020,Madera,Never Assisted,1119,17.40%
+2020,Madera,Total Caseload,6431,
+2020,Marin,Current Public Assistance,390,9.70%
+2020,Marin,Former Public Assistance,2415,59.80%
+2020,Marin,Never Assisted,1233,30.50%
+2020,Marin,Total Caseload,4038,
+2020,Mariposa,Current Public Assistance,112,17.30%
+2020,Mariposa,Former Public Assistance,385,59.30%
+2020,Mariposa,Never Assisted,152,23.40%
+2020,Mariposa,Total Caseload,649,
+2020,Mendocino,Current Public Assistance,516,15.60%
+2020,Mendocino,Former Public Assistance,2164,65.40%
+2020,Mendocino,Never Assisted,630,19.00%
+2020,Mendocino,Total Caseload,3310,
+2020,Merced,Current Public Assistance,3317,22.30%
+2020,Merced,Former Public Assistance,9566,64.20%
+2020,Merced,Never Assisted,2021,13.60%
+2020,Merced,Total Caseload,14904,
+2020,Modoc,Current Public Assistance,74,26.80%
+2020,Modoc,Former Public Assistance,151,54.70%
+2020,Modoc,Never Assisted,51,18.50%
+2020,Modoc,Total Caseload,276,
+2020,Mono,Current Public Assistance,12,6.00%
+2020,Mono,Former Public Assistance,82,40.80%
+2020,Mono,Never Assisted,107,53.20%
+2020,Mono,Total Caseload,201,
+2020,Monterey,Current Public Assistance,1764,12.90%
+2020,Monterey,Former Public Assistance,8105,59.30%
+2020,Monterey,Never Assisted,3800,27.80%
+2020,Monterey,Total Caseload,13669,
+2020,Napa,Current Public Assistance,326,10.60%
+2020,Napa,Former Public Assistance,1519,49.40%
+2020,Napa,Never Assisted,1228,40.00%
+2020,Napa,Total Caseload,3073,
+2020,Nevada,Current Public Assistance,375,14.70%
+2020,Nevada,Former Public Assistance,1447,56.80%
+2020,Nevada,Never Assisted,727,28.50%
+2020,Nevada,Total Caseload,2549,
+2020,Orange,Current Public Assistance,8080,13.40%
+2020,Orange,Former Public Assistance,29687,49.30%
+2020,Orange,Never Assisted,22476,37.30%
+2020,Orange,Total Caseload,60243,
+2020,Placer,Current Public Assistance,641,9.70%
+2020,Placer,Former Public Assistance,3423,51.70%
+2020,Placer,Never Assisted,2558,38.60%
+2020,Placer,Total Caseload,6622,
+2020,Plumas,Current Public Assistance,107,13.80%
+2020,Plumas,Former Public Assistance,484,62.50%
+2020,Plumas,Never Assisted,183,23.60%
+2020,Plumas,Total Caseload,774,
+2020,Riverside,Current Public Assistance,13393,17.40%
+2020,Riverside,Former Public Assistance,46172,60.00%
+2020,Riverside,Never Assisted,17391,22.60%
+2020,Riverside,Total Caseload,76956,
+2020,Sacramento,Current Public Assistance,11363,16.40%
+2020,Sacramento,Former Public Assistance,45122,65.20%
+2020,Sacramento,Never Assisted,12684,18.30%
+2020,Sacramento,Total Caseload,69169,
+2020,San Benito,Current Public Assistance,238,13.10%
+2020,San Benito,Former Public Assistance,1123,61.60%
+2020,San Benito,Never Assisted,462,25.30%
+2020,San Benito,Total Caseload,1823,
+2020,San Bernardino,Current Public Assistance,20981,21.50%
+2020,San Bernardino,Former Public Assistance,59429,60.90%
+2020,San Bernardino,Never Assisted,17205,17.60%
+2020,San Bernardino,Total Caseload,97615,
+2020,San Diego,Current Public Assistance,8639,14.40%
+2020,San Diego,Former Public Assistance,28830,48.10%
+2020,San Diego,Never Assisted,22414,37.40%
+2020,San Diego,Total Caseload,59883,
+2020,San Francisco,Current Public Assistance,1593,16.30%
+2020,San Francisco,Former Public Assistance,5421,55.60%
+2020,San Francisco,Never Assisted,2739,28.10%
+2020,San Francisco,Total Caseload,9753,
+2020,San Joaquin,Current Public Assistance,6000,18.20%
+2020,San Joaquin,Former Public Assistance,21146,64.00%
+2020,San Joaquin,Never Assisted,5897,17.80%
+2020,San Joaquin,Total Caseload,33043,
+2020,San Luis Obispo,Current Public Assistance,622,16.50%
+2020,San Luis Obispo,Former Public Assistance,1818,48.20%
+2020,San Luis Obispo,Never Assisted,1334,35.30%
+2020,San Luis Obispo,Total Caseload,3774,
+2020,San Mateo,Current Public Assistance,618,7.40%
+2020,San Mateo,Former Public Assistance,3828,45.60%
+2020,San Mateo,Never Assisted,3954,47.10%
+2020,San Mateo,Total Caseload,8400,
+2020,Santa Barbara,Current Public Assistance,1869,16.50%
+2020,Santa Barbara,Former Public Assistance,6601,58.20%
+2020,Santa Barbara,Never Assisted,2875,25.30%
+2020,Santa Barbara,Total Caseload,11345,
+2020,Santa Clara,Current Public Assistance,3264,11.40%
+2020,Santa Clara,Former Public Assistance,17011,59.40%
+2020,Santa Clara,Never Assisted,8381,29.20%
+2020,Santa Clara,Total Caseload,28656,
+2020,Santa Cruz,Current Public Assistance,733,15.10%
+2020,Santa Cruz,Former Public Assistance,2703,55.60%
+2020,Santa Cruz,Never Assisted,1427,29.30%
+2020,Santa Cruz,Total Caseload,4863,
+2020,Shasta,Current Public Assistance,1771,17.60%
+2020,Shasta,Former Public Assistance,6500,64.70%
+2020,Shasta,Never Assisted,1778,17.70%
+2020,Shasta,Total Caseload,10049,
+2020,Sierra,Current Public Assistance,13,14.00%
+2020,Sierra,Former Public Assistance,58,62.40%
+2020,Sierra,Never Assisted,22,23.70%
+2020,Sierra,Total Caseload,93,
+2020,Siskiyou,Current Public Assistance,341,14.20%
+2020,Siskiyou,Former Public Assistance,1568,65.40%
+2020,Siskiyou,Never Assisted,490,20.40%
+2020,Siskiyou,Total Caseload,2399,
+2020,Solano,Current Public Assistance,2195,15.10%
+2020,Solano,Former Public Assistance,8627,59.20%
+2020,Solano,Never Assisted,3752,25.70%
+2020,Solano,Total Caseload,14574,
+2020,Sonoma,Current Public Assistance,1160,11.20%
+2020,Sonoma,Former Public Assistance,5522,53.20%
+2020,Sonoma,Never Assisted,3688,35.60%
+2020,Sonoma,Total Caseload,10370,
+2020,Stanislaus,Current Public Assistance,4225,16.80%
+2020,Stanislaus,Former Public Assistance,16638,66.10%
+2020,Stanislaus,Never Assisted,4323,17.20%
+2020,Stanislaus,Total Caseload,25186,
+2020,Sutter,Current Public Assistance,798,19.90%
+2020,Sutter,Former Public Assistance,2444,60.80%
+2020,Sutter,Never Assisted,776,19.30%
+2020,Sutter,Total Caseload,4018,
+2020,Tehama,Current Public Assistance,739,21.60%
+2020,Tehama,Former Public Assistance,2140,62.40%
+2020,Tehama,Never Assisted,550,16.00%
+2020,Tehama,Total Caseload,3429,
+2020,Trinity,Current Public Assistance,98,12.10%
+2020,Trinity,Former Public Assistance,570,70.60%
+2020,Trinity,Never Assisted,139,17.20%
+2020,Trinity,Total Caseload,807,
+2020,Tulare,Current Public Assistance,3456,15.80%
+2020,Tulare,Former Public Assistance,14540,66.60%
+2020,Tulare,Never Assisted,3827,17.50%
+2020,Tulare,Total Caseload,21823,
+2020,Tuolumne,Current Public Assistance,311,13.80%
+2020,Tuolumne,Former Public Assistance,1429,63.60%
+2020,Tuolumne,Never Assisted,507,22.60%
+2020,Tuolumne,Total Caseload,2247,
+2020,Ventura,Current Public Assistance,2489,13.30%
+2020,Ventura,Former Public Assistance,10266,55.00%
+2020,Ventura,Never Assisted,5914,31.70%
+2020,Ventura,Total Caseload,18669,
+2020,Yolo,Current Public Assistance,754,11.40%
+2020,Yolo,Former Public Assistance,4339,65.50%
+2020,Yolo,Never Assisted,1531,23.10%
+2020,Yolo,Total Caseload,6624,
+2020,Yuba,Current Public Assistance,844,22.70%
+2020,Yuba,Former Public Assistance,2233,60.10%
+2020,Yuba,Never Assisted,640,17.20%
+2020,Yuba,Total Caseload,3717,
+2021,Alameda,Current Public Assistance,4429,15.10%
+2021,Alameda,Former Public Assistance,16498,56.40%
+2021,Alameda,Never Assisted,8322,28.50%
+2021,Alameda,Total Caseload,29249,
+2021,Alpine,Current Public Assistance,0,0.00%
+2021,Alpine,Former Public Assistance,25,67.60%
+2021,Alpine,Never Assisted,12,32.40%
+2021,Alpine,Total Caseload,37,
+2021,Amador,Current Public Assistance,115,11.20%
+2021,Amador,Former Public Assistance,613,59.70%
+2021,Amador,Never Assisted,298,29.00%
+2021,Amador,Total Caseload,1026,
+2021,Butte,Current Public Assistance,1301,14.40%
+2021,Butte,Former Public Assistance,6273,69.60%
+2021,Butte,Never Assisted,1435,15.90%
+2021,Butte,Total Caseload,9009,
+2021,Calaveras,Current Public Assistance,186,13.60%
+2021,Calaveras,Former Public Assistance,862,63.20%
+2021,Calaveras,Never Assisted,317,23.20%
+2021,Calaveras,Total Caseload,1365,
+2021,Colusa,Current Public Assistance,78,11.10%
+2021,Colusa,Former Public Assistance,367,52.40%
+2021,Colusa,Never Assisted,255,36.40%
+2021,Colusa,Total Caseload,700,
+2021,Contra Costa,Current Public Assistance,2998,12.10%
+2021,Contra Costa,Former Public Assistance,14073,56.80%
+2021,Contra Costa,Never Assisted,7697,31.10%
+2021,Contra Costa,Total Caseload,24768,
+2021,Del Norte,Current Public Assistance,323,16.00%
+2021,Del Norte,Former Public Assistance,1377,68.20%
+2021,Del Norte,Never Assisted,319,15.80%
+2021,Del Norte,Total Caseload,2019,
+2021,El Dorado,Current Public Assistance,633,12.60%
+2021,El Dorado,Former Public Assistance,3021,60.40%
+2021,El Dorado,Never Assisted,1351,27.00%
+2021,El Dorado,Total Caseload,5005,
+2021,Fresno,Current Public Assistance,10958,19.40%
+2021,Fresno,Former Public Assistance,38354,68.00%
+2021,Fresno,Never Assisted,7075,12.50%
+2021,Fresno,Total Caseload,56387,
+2021,Glenn,Current Public Assistance,260,16.50%
+2021,Glenn,Former Public Assistance,1004,63.70%
+2021,Glenn,Never Assisted,312,19.80%
+2021,Glenn,Total Caseload,1576,
+2021,Humboldt,Current Public Assistance,903,18.10%
+2021,Humboldt,Former Public Assistance,2890,57.90%
+2021,Humboldt,Never Assisted,1201,24.00%
+2021,Humboldt,Total Caseload,4994,
+2021,Imperial,Current Public Assistance,1819,19.30%
+2021,Imperial,Former Public Assistance,5611,59.40%
+2021,Imperial,Never Assisted,2017,21.40%
+2021,Imperial,Total Caseload,9447,
+2021,Inyo,Current Public Assistance,69,8.20%
+2021,Inyo,Former Public Assistance,485,57.70%
+2021,Inyo,Never Assisted,286,34.00%
+2021,Inyo,Total Caseload,840,
+2021,Kern,Current Public Assistance,11311,23.10%
+2021,Kern,Former Public Assistance,29828,60.90%
+2021,Kern,Never Assisted,7839,16.00%
+2021,Kern,Total Caseload,48978,
+2021,Kings,Current Public Assistance,1686,19.90%
+2021,Kings,Former Public Assistance,5260,62.20%
+2021,Kings,Never Assisted,1516,17.90%
+2021,Kings,Total Caseload,8462,
+2021,Lake,Current Public Assistance,493,19.90%
+2021,Lake,Former Public Assistance,1529,61.60%
+2021,Lake,Never Assisted,460,18.50%
+2021,Lake,Total Caseload,2482,
+2021,Lassen,Current Public Assistance,275,19.60%
+2021,Lassen,Former Public Assistance,855,61.00%
+2021,Lassen,Never Assisted,272,19.40%
+2021,Lassen,Total Caseload,1402,
+2021,Los Angeles,Current Public Assistance,45171,20.80%
+2021,Los Angeles,Former Public Assistance,122010,56.30%
+2021,Los Angeles,Never Assisted,49525,22.90%
+2021,Los Angeles,Total Caseload,216706,
+2021,Madera,Current Public Assistance,1449,22.90%
+2021,Madera,Former Public Assistance,3789,59.80%
+2021,Madera,Never Assisted,1103,17.40%
+2021,Madera,Total Caseload,6341,
+2021,Marin,Current Public Assistance,350,9.70%
+2021,Marin,Former Public Assistance,2096,58.20%
+2021,Marin,Never Assisted,1154,32.10%
+2021,Marin,Total Caseload,3600,
+2021,Mariposa,Current Public Assistance,103,16.10%
+2021,Mariposa,Former Public Assistance,389,60.90%
+2021,Mariposa,Never Assisted,147,23.00%
+2021,Mariposa,Total Caseload,639,
+2021,Mendocino,Current Public Assistance,443,14.70%
+2021,Mendocino,Former Public Assistance,1980,65.60%
+2021,Mendocino,Never Assisted,596,19.70%
+2021,Mendocino,Total Caseload,3019,
+2021,Merced,Current Public Assistance,2986,20.50%
+2021,Merced,Former Public Assistance,9584,65.90%
+2021,Merced,Never Assisted,1973,13.60%
+2021,Merced,Total Caseload,14543,
+2021,Modoc,Current Public Assistance,54,20.10%
+2021,Modoc,Former Public Assistance,162,60.40%
+2021,Modoc,Never Assisted,52,19.40%
+2021,Modoc,Total Caseload,268,
+2021,Mono,Current Public Assistance,12,6.10%
+2021,Mono,Former Public Assistance,79,39.90%
+2021,Mono,Never Assisted,107,54.00%
+2021,Mono,Total Caseload,198,
+2021,Monterey,Current Public Assistance,1516,11.50%
+2021,Monterey,Former Public Assistance,7882,59.70%
+2021,Monterey,Never Assisted,3801,28.80%
+2021,Monterey,Total Caseload,13199,
+2021,Napa,Current Public Assistance,266,9.20%
+2021,Napa,Former Public Assistance,1450,50.10%
+2021,Napa,Never Assisted,1178,40.70%
+2021,Napa,Total Caseload,2894,
+2021,Nevada,Current Public Assistance,320,13.10%
+2021,Nevada,Former Public Assistance,1401,57.50%
+2021,Nevada,Never Assisted,717,29.40%
+2021,Nevada,Total Caseload,2438,
+2021,Orange,Current Public Assistance,6802,11.90%
+2021,Orange,Former Public Assistance,28685,50.00%
+2021,Orange,Never Assisted,21842,38.10%
+2021,Orange,Total Caseload,57329,
+2021,Placer,Current Public Assistance,528,8.30%
+2021,Placer,Former Public Assistance,3312,52.10%
+2021,Placer,Never Assisted,2519,39.60%
+2021,Placer,Total Caseload,6359,
+2021,Plumas,Current Public Assistance,94,12.90%
+2021,Plumas,Former Public Assistance,448,61.30%
+2021,Plumas,Never Assisted,189,25.90%
+2021,Plumas,Total Caseload,731,
+2021,Riverside,Current Public Assistance,11275,15.10%
+2021,Riverside,Former Public Assistance,45929,61.60%
+2021,Riverside,Never Assisted,17341,23.30%
+2021,Riverside,Total Caseload,74545,
+2021,Sacramento,Current Public Assistance,10150,15.10%
+2021,Sacramento,Former Public Assistance,44558,66.30%
+2021,Sacramento,Never Assisted,12469,18.60%
+2021,Sacramento,Total Caseload,67177,
+2021,San Benito,Current Public Assistance,217,12.50%
+2021,San Benito,Former Public Assistance,1060,61.00%
+2021,San Benito,Never Assisted,461,26.50%
+2021,San Benito,Total Caseload,1738,
+2021,San Bernardino,Current Public Assistance,17839,19.60%
+2021,San Bernardino,Former Public Assistance,56663,62.40%
+2021,San Bernardino,Never Assisted,16331,18.00%
+2021,San Bernardino,Total Caseload,90833,
+2021,San Diego,Current Public Assistance,7801,13.30%
+2021,San Diego,Former Public Assistance,28503,48.40%
+2021,San Diego,Never Assisted,22571,38.30%
+2021,San Diego,Total Caseload,58875,
+2021,San Francisco,Current Public Assistance,1508,16.30%
+2021,San Francisco,Former Public Assistance,5157,55.80%
+2021,San Francisco,Never Assisted,2580,27.90%
+2021,San Francisco,Total Caseload,9245,
+2021,San Joaquin,Current Public Assistance,5272,16.50%
+2021,San Joaquin,Former Public Assistance,20748,65.00%
+2021,San Joaquin,Never Assisted,5885,18.40%
+2021,San Joaquin,Total Caseload,31905,
+2021,San Luis Obispo,Current Public Assistance,603,15.70%
+2021,San Luis Obispo,Former Public Assistance,1909,49.80%
+2021,San Luis Obispo,Never Assisted,1320,34.40%
+2021,San Luis Obispo,Total Caseload,3832,
+2021,San Mateo,Current Public Assistance,479,6.00%
+2021,San Mateo,Former Public Assistance,3593,45.10%
+2021,San Mateo,Never Assisted,3895,48.90%
+2021,San Mateo,Total Caseload,7967,
+2021,Santa Barbara,Current Public Assistance,1643,15.10%
+2021,Santa Barbara,Former Public Assistance,6367,58.60%
+2021,Santa Barbara,Never Assisted,2848,26.20%
+2021,Santa Barbara,Total Caseload,10858,
+2021,Santa Clara,Current Public Assistance,2878,10.50%
+2021,Santa Clara,Former Public Assistance,16353,59.60%
+2021,Santa Clara,Never Assisted,8195,29.90%
+2021,Santa Clara,Total Caseload,27426,
+2021,Santa Cruz,Current Public Assistance,637,13.70%
+2021,Santa Cruz,Former Public Assistance,2640,56.90%
+2021,Santa Cruz,Never Assisted,1365,29.40%
+2021,Santa Cruz,Total Caseload,4642,
+2021,Shasta,Current Public Assistance,1429,15.60%
+2021,Shasta,Former Public Assistance,6078,66.20%
+2021,Shasta,Never Assisted,1675,18.20%
+2021,Shasta,Total Caseload,9182,
+2021,Sierra,Current Public Assistance,17,19.30%
+2021,Sierra,Former Public Assistance,45,51.10%
+2021,Sierra,Never Assisted,26,29.50%
+2021,Sierra,Total Caseload,88,
+2021,Siskiyou,Current Public Assistance,296,13.00%
+2021,Siskiyou,Former Public Assistance,1498,65.70%
+2021,Siskiyou,Never Assisted,487,21.40%
+2021,Siskiyou,Total Caseload,2281,
+2021,Solano,Current Public Assistance,1881,13.70%
+2021,Solano,Former Public Assistance,8272,60.00%
+2021,Solano,Never Assisted,3624,26.30%
+2021,Solano,Total Caseload,13777,
+2021,Sonoma,Current Public Assistance,982,9.80%
+2021,Sonoma,Former Public Assistance,5353,53.50%
+2021,Sonoma,Never Assisted,3666,36.70%
+2021,Sonoma,Total Caseload,10001,
+2021,Stanislaus,Current Public Assistance,3633,15.20%
+2021,Stanislaus,Former Public Assistance,16033,66.90%
+2021,Stanislaus,Never Assisted,4289,17.90%
+2021,Stanislaus,Total Caseload,23955,
+2021,Sutter,Current Public Assistance,691,18.30%
+2021,Sutter,Former Public Assistance,2362,62.50%
+2021,Sutter,Never Assisted,725,19.20%
+2021,Sutter,Total Caseload,3778,
+2021,Tehama,Current Public Assistance,606,18.70%
+2021,Tehama,Former Public Assistance,2082,64.10%
+2021,Tehama,Never Assisted,560,17.20%
+2021,Tehama,Total Caseload,3248,
+2021,Trinity,Current Public Assistance,83,12.20%
+2021,Trinity,Former Public Assistance,462,68.00%
+2021,Trinity,Never Assisted,134,19.70%
+2021,Trinity,Total Caseload,679,
+2021,Tulare,Current Public Assistance,3693,16.70%
+2021,Tulare,Former Public Assistance,14585,66.00%
+2021,Tulare,Never Assisted,3810,17.20%
+2021,Tulare,Total Caseload,22088,
+2021,Tuolumne,Current Public Assistance,231,11.00%
+2021,Tuolumne,Former Public Assistance,1368,65.20%
+2021,Tuolumne,Never Assisted,499,23.80%
+2021,Tuolumne,Total Caseload,2098,
+2021,Ventura,Current Public Assistance,2094,11.70%
+2021,Ventura,Former Public Assistance,9982,55.90%
+2021,Ventura,Never Assisted,5770,32.30%
+2021,Ventura,Total Caseload,17846,
+2021,Yolo,Current Public Assistance,619,9.90%
+2021,Yolo,Former Public Assistance,4156,66.30%
+2021,Yolo,Never Assisted,1497,23.90%
+2021,Yolo,Total Caseload,6272,
+2021,Yuba,Current Public Assistance,788,22.50%
+2021,Yuba,Former Public Assistance,2094,59.80%
+2021,Yuba,Never Assisted,619,17.70%
+2021,Yuba,Total Caseload,3501,
